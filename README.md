@@ -15,8 +15,6 @@ A PowerShell-based GUI tool for simplified MSI package installation with custom 
 
 ## Requirements
 
-- Windows 7 or later
-- PowerShell 5.1 or later
 - Administrative privileges for system-wide installations
 
 ## Installation
