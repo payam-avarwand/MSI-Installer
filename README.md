@@ -1,6 +1,6 @@
 # MSI Installer
 
-A PowerShell-based GUI tool for simplified MSI package installation with custom parameters or MST transforms.
+A tool for simplified MSI package installation with custom parameters or MST transforms.
 
 ## Features
 
@@ -19,7 +19,7 @@ A PowerShell-based GUI tool for simplified MSI package installation with custom 
 
 ## Installation
 
-1. Download the latest release from the [Releases page](https://github.com/yourusername/msi-installer/releases)
+1. Download the latest release from the [Releases page](https://github.com/payam-avarwand/MSI-Installer/releases/tag/MSI-Installer)
 2. Run the executable (portable, no installation needed)
 
 ## Usage
